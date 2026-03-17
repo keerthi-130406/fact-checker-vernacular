@@ -1,0 +1,12 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+langchain
+fastapi
+uvicorn
+pypdf
+requests
+beautifulsoup4
+pandas
+numpy
